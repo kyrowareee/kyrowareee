@@ -1,0 +1,3 @@
+- 17y old
+- Deveolper in C#, C++, Lua.
+- USA
